@@ -45,7 +45,5 @@
     "zf": {
       "component": "MSBios\\HTMLPurifier"
     }
-  },
-  "bin": [
-  ]
+  }
 }
